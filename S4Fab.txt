@@ -1,0 +1,126 @@
+1. SGlive         gLMg3JukA0S9sq8tnMpPiZS5CtQHWW  BEAM FAIRY WSWORD AKEY
+
+
+2. SWORDLESS        Aj!CV6s4ceXSmWzqJwojHbBR7RrZXa  ARROW TRI BOOK BANANA
+
+1st Quest Overworld
+Shapes Dungeons
+Mixed Hints
+Yes Swordless
+Yes Replace WS/MS with bomb upgrades
+Start shuffle:  Full start shuffle
+Yes Forced Gannon
+Yes Important Items in 9
+Yes Start Room Swap
+Enemy HP: +/- 4, Boss HP: +/- 2
+Yes Forced Overworld Blocks
+Yes Wood Sword blocks
+Yes Shuffle Dungeon Items, No RR/SA forced in 9
+Yes Dungeon Heart shuffle
+Yes Shuffle Shop Items
+Book:  Yes Atlas
+2nd Quest:  Yes Monsters, Yes Rooms
+Yes Enemy Group shuffle, Yes overworld enemies as well
+Starting Items:  Yes Wood Boomerang
+Max Starting Items:  1
+
+
+3. RUPEE SPEED        3XHeG1fUfWscwb01zTUOj5xl40FXVx  BOOK MAGS CANDLE BOOK
+
+Mixed Quest - 1st Overworld
+Shapes Dungeons
+Helpful Hints
+Start shuffle:  Full start shuffle
+Level 9 Entry:  8 triforces
+Yes Forced Gannon
+Yes Important Items in 9
+Yes Start Room Swap
+Enemy HP: +/- 2, Boss HP: +/- 2
+Yes Cave Shuffle
+Yes Shuffle Dungeon Items, No RR/SA forced in 9
+Yes Dungeon Heart shuffle
+Yes Shuffle Shop Items
+Book:  Possible Atlas, Yes Understand Old Men
+2nd Quest:  Yes Rooms
+Yes Rupees Affect Speed
+Yes Enemy Group shuffle, Yes overworld enemies as well
+
+
+4. HIDDEN STUFF        1WKN66RMb9puVCvafZPqKavDWmpILb5 SHIELD WSWORD BOOK BOMB
+
+Random Overworld
+Shapes Dungeons
+Random Hints
+Start shuffle:  Full start shuffle
+Level 9 Entry:  8 triforces
+Yes Forced Gannon
+Yes Important Items in 9
+Yes Start Room Swap
+Enemy HP: +/- 2, Boss HP: +/- 2
+Yes Cave Shuffle
+Yes Hidden Dungeon Numbers
+Yes Shuffle Dungeon Items, No RR/SA forced in 9
+Yes Dungeon Heart shuffle
+Yes Shuffle Shop Items
+Yes Hidden Health
+Yes Hidden Money/Bombs/Keys
+Book:  Possible Boomstick, Possible Atlas, Possible Understand Old Men
+2nd Quest:  Yes Monsters, Yes Rooms
+Yes Enemy Group shuffle, Yes overworld enemies as well
+Yes Randomize Boss Groups
+Yes Randomize Enemy Drop Groups
+Red Bubble Curse: Swordless
+Starting Items:  Yes Raft, Yes Bow, Yes 8 Bombs, Yes Recorder, Yes Bait, Yes Magical Key, Yes Letter, Yes Power Bracelet, Yes Ladder, Yes Wand, Yes Book, Yes Wood Sword, Yes Wood Arrow, Yes Blue Candle, Yes Red Candle, Yes Blue Ring, Yes Wood Boomerang, Yes Magical Boomerang
+Max Starting Items:  1
+Starting Hearts:  3
+Starting Triforces:  0
+
+
+5. SPOILER LOG*        OhyTnBczAadpwWNnlXWZEHyepV0UB   KEY MAP BEAM FLUTE
+
+Mixed Quest - 2nd Overworld
+Shapes Dungeons
+Community Hints
+Start shuffle:  Full start shuffle
+Level 9 Entry:  8 triforces
+Yes Forced Gannon
+Yes Important Items in 9
+Yes Start Room Swap
+Enemy HP: +/- 4, Boss HP: +/- 2
+Yes Cave Shuffle
+Yes Shuffle Dungeon Items, No RR/SA forced in 9
+Yes Dungeon Heart shuffle
+Yes Shuffle Shop Items
+Book:  Yes Atlas
+2nd Quest:  Yes Monsters, Yes Rooms
+Yes Enemy Group shuffle, Yes overworld enemies as well
+Yes Randomize Boss Groups
+Yes Extra Bosses
+Red Bubble Curse: Swordless
+Starting Hearts:  3
+Starting Triforces:  0
+
+
+6. MODIFIED 2019 BRACK    1B5tQLYqdOcxDFE8Gd16YWwprjcaIT  MAGS KEY HEART BOMB
+
+1st Quest Overworld
+Shapes Dungeons
+Community Hints
+Start shuffle:  Full start shuffle
+Level 9 Entry:  8 triforces
+Yes Forced Gannon
+Yes Important Items in 9
+Yes Start Room Swap
+Enemy HP: +/- 2, Boss HP: +/- 2
+No Cave Shuffle
+Yes Shuffle Dungeon Locations
+Yes Shuffle Dungeon Items, No RR/SA forced in 9
+Yes Dungeon Heart shuffle
+Yes Shuffle Shop Items
+Book:  Yes Atlas
+2nd Quest:  Yes Rooms
+Yes Enemy Group shuffle, Yes overworld enemies as well
+Yes Randomize Boss Groups
+Red Bubble Curse: Random
+Starting Hearts:  3
+Starting Triforces:  0
