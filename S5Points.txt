@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Sat, 03 Sep 2022 00:37:07 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>Season 5 Points Standings</title>
+	<Font size=+3><B>Season 5 Points Standings</font></B><BR><BR>
+    <Table border =1>
+	<TR><TD>Player</TD><TD>Points</TD></TR>
+	<TR><TD></TD><TD></TD></TR>
+	<TR><TD></TD><TD></TD></TR>
+<TR><TD>Invisibor</TD><TD>12</TD></TR>
+<TR><TD>Angel_FM</TD><TD>12</TD></TR>
+<TR><TD>Jessandy8</TD><TD>9</TD></TR>
+<TR><TD>potato_pony</TD><TD>9</TD></TR>
+<TR><TD>Steelheart</TD><TD>6</TD></TR>
+<TR><TD>syscrusher</TD><TD>6</TD></TR>
+<TR><TD>MoonrisenPhoenix</TD><TD>3</TD></TR>
+<TR><TD>Sigil711</TD><TD>3</TD></TR>
+<TR><TD>Ugondis</TD><TD>1</TD></TR>
+<TR><TD>spudozaurus</TD><TD>1</TD></TR></Table>
+
+ <BR>
+ <BR>
+ <a href = "season4.html">Return to Season 4</a>
+  </head>
+  <body>
+
+  </body>
+</html>
